@@ -8,5 +8,5 @@ works on a given database of books and performs searches based on title, author
 name etc. Books can also be filtered based on their ratings. It then neatly displays
 the book searched for with its cover, author name, title and rating (all of which
 are obtained from the database) as cards. Upon clicking the book card, it redirects
-you to its Google page.
+you to its Google page.Get the codesandbox [here](https://codesandbox.io/s/mqo2pwpvoy)
 
